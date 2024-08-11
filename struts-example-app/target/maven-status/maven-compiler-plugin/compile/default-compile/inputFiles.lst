@@ -1,0 +1,5 @@
+/Users/alex/eclipse-workspace/java-mvc-frameworks/struts-example-app/src/main/java/com/strutsexample/app/LoginAction.java
+/Users/alex/eclipse-workspace/java-mvc-frameworks/struts-example-app/src/main/java/com/strutsexample/app/LoginForm.java
+/Users/alex/eclipse-workspace/java-mvc-frameworks/struts-example-app/src/main/java/com/strutsexample/app/entity/Employee.java
+/Users/alex/eclipse-workspace/java-mvc-frameworks/struts-example-app/src/main/java/com/strutsexample/app/service/EmployeeService.java
+/Users/alex/eclipse-workspace/java-mvc-frameworks/struts-example-app/src/main/java/com/strutsexample/app/utils/HibernateSessionUtils.java

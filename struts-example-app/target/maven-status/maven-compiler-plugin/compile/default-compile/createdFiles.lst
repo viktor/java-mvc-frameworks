@@ -1,0 +1,5 @@
+com/strutsexample/app/service/EmployeeService.class
+com/strutsexample/app/utils/HibernateSessionUtils.class
+com/strutsexample/app/LoginAction.class
+com/strutsexample/app/LoginForm.class
+com/strutsexample/app/entity/Employee.class
