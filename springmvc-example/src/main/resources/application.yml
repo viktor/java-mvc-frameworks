@@ -1,0 +1,25 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+
+  application:
+    name: springmvc-example
+    datasource:
+      driverClassName: org.h2.Driver
+      url: jdbc:h2:mem:schoolDb;DB_CLOSE_DELAY=-1
+      username: sa
+      password:
+
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        format-sql: true
+        generate-statistics: false
+    hibernate:
+      dialect: org.hibernate.dialect.H2Dialect
+      ddl-auto: create-drop
+
